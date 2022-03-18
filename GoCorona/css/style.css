@@ -439,22 +439,29 @@ body {
   .get-started__container {
     padding: 100px 15px 30px 15px;
   }
+
   .get-started__container::before {
     display: none;
   }
+
   .get-started__block-text {
     max-width: none;
   }
+
   .get-started__content {
     flex: 1 1 100%;
-  padding: 0;
+    padding: 0;
   }
+
   .get-started__image {
     flex: 1 1 100%;
     text-align: center;
     padding: 30px 0;
   }
+
   .get-started__video {
     padding: 0;
   }
 }
+
+/*-----------------------------*/
