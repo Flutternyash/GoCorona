@@ -560,7 +560,7 @@ body {
   }
 }
 
-@media (min-width: 767.98px) {
+@media (max-width: 767.98px) {
   .stay-safe {
     padding: 30px 0;
   }
@@ -574,7 +574,7 @@ body {
   }
 }
 
-@media (min-width: 479.98px) {
+@media (max-width: 479.98px) {
   .media-stay-safe {
     width: 290px;
   }
