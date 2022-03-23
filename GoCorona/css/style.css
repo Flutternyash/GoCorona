@@ -523,7 +523,7 @@ body {
   left: 12px;
   width: 206px;
   height: 27px;
-  z-index: 2;
+  z-index: 1;
   background: rgba(240, 240, 240, 0.49);
   border-radius: 16px;
 }
